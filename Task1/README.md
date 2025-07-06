@@ -14,6 +14,8 @@
 - Персональные данные сотрудников: ФИО, дата рождения, паспортные данные, начисления зарплаты, информация об отпусках.
 
 Диаграммы потоков данных (Data Flow Diagrams):
+[DFD.drawio](https://github.com/Boropwnz/architecture-medikamente/blob/medikamente/Task1/DFD.drawio)
+![DFD.drawio](https://github.com/Boropwnz/architecture-medikamente/blob/medikamente/Task1/DFD.drawio.svg)
 
 
 ### Проведите аудит мер по обеспечению безопасности данных.
